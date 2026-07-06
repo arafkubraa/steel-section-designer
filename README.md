@@ -1,7 +1,7 @@
 # Steel Section Designer
 
 <p align="center">
-  <img src="images/str1.png" alt="Steel Section Designer" width="100%">
+  <img src="str1.png" alt="Steel Section Designer" width="100%">
 </p>
 
 > A desktop engineering application for **steel section capacity analysis** and **profile optimization** according to **AISC 360-22**.
