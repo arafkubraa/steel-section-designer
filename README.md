@@ -1,7 +1,7 @@
 # Steel Section Designer
 
 <p align="center">
-  <img src="images/str1.jpeg" alt="Steel Section Designer" width="100%">
+  <img src="images/str1.png" alt="Steel Section Designer" width="100%">
 </p>
 
 > A desktop engineering application for **steel section capacity analysis** and **profile optimization** according to **AISC 360-22**.
@@ -65,7 +65,7 @@ Designed with a modern desktop interface, it combines engineering calculations, 
 Evaluate steel section capacities based on applied loading conditions.
 
 <p align="center">
-<img src="images/str1.jpeg" width="100%">
+<img src="images/str1.png" width="100%">
 </p>
 
 ---
@@ -75,7 +75,7 @@ Evaluate steel section capacities based on applied loading conditions.
 Find the lightest section satisfying the required design criteria.
 
 <p align="center">
-<img src="images/str2.jpeg" width="100%">
+<img src="images/str2.png" width="100%">
 </p>
 
 ---
@@ -85,7 +85,7 @@ Find the lightest section satisfying the required design criteria.
 Built-in engineering assumptions, limitations, and design notes.
 
 <p align="center">
-<img src="images/str3.jpeg" width="100%">
+<img src="images/str3.png" width="100%">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Built-in engineering assumptions, limitations, and design notes.
 Users can submit suggestions, bug reports, and improvement requests directly from the application.
 
 <p align="center">
-<img src="images/str4.jpeg" width="100%">
+<img src="images/str4.png" width="100%">
 </p>
 
 ---
